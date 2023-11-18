@@ -1,4 +1,5 @@
 ### Hi there 👋 my name is Bryan Park!
+### I am from Halifax, Nova Scotia. 
 
 <!--
 **bmpark16/bmpark16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
