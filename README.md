@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name is Bryan!
 
 <!--
 **bmpark16/bmpark16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+s
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
