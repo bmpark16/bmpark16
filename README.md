@@ -1,5 +1,5 @@
-### Hi there 👋 my name is Bryan Park!
-### I am from Halifax, Nova Scotia. 
+### Welcome to Bryan's Repsoitory! 
+### I am from Halifax, Nova Scotia, and I am a student studying Computer Science at University of British Columbia. 
 
 <!--
 **bmpark16/bmpark16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
