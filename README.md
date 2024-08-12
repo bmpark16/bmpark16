@@ -1,4 +1,4 @@
-### Welcome to Bryan's Repsoitory! 
+### Welcome to Bryan's Repository! 
 ### I am from Halifax, Nova Scotia, and I am a student studying Computer Science at University of British Columbia. 
 
 <!--
